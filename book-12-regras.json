@@ -1,0 +1,32 @@
+{
+  "id": "12-regras",
+  "title": "12 Regras para a Vida",
+  "author": "Jordan Peterson",
+  "category": "Psicologia",
+  "summary": "Peterson combina psicologia, mitologia e filosofia para propor princípios concretos de como viver com responsabilidade e significado num mundo caótico.",
+  "cover_color": "#1a1200",
+  "accent": "#c8a84a",
+  "year": "2018",
+  "pages": [
+    {
+      "title": "Ordem e Caos",
+      "content": "A vida existe na tensão entre a ordem e o caos.\n\nA ordem pura é rigidez — o mundo como jaula. O caos puro é terror — o mundo sem forma.\n\nA vida bem vivida navega no limiar entre os dois. Suficientemente ordenada para ser sustentável. Suficientemente aberta ao caos para crescer e ser surpreendida."
+    },
+    {
+      "title": "Regra 1 — Fica Erecto",
+      "content": "Coloca os teus ombros para trás.\n\nNão é apenas uma instrução postural. É uma declaração de presença no mundo.\n\nFica erecto. Não de arrogância. De respeito próprio. De disposição para ocupar o teu lugar legítimo no mundo, sem pedir desculpa por existires."
+    },
+    {
+      "title": "Regra 2 — Trata-te Como Alguém que Cuidas",
+      "content": "As pessoas tratam melhor os seus animais de estimação do que a si mesmas.\n\nSe o teu cão estiver doente, vais ao veterinário. Mas quando se trata de ti — a maioria das pessoas é negligente, quando não directamente cruel.\n\nConsideras-te suficientemente digno para ajudar os outros. Porque não o és para te ajudar a ti mesmo?"
+    },
+    {
+      "title": "Regra 6 — Arruma o Teu Quarto",
+      "content": "Antes de criticar o mundo, arruma o teu quarto.\n\nÉ muito mais fácil denunciar os problemas do mundo do que olhar para o caos que reina na tua própria vida.\n\nA crítica externa é frequentemente um desvio da responsabilidade interna."
+    },
+    {
+      "title": "Significado contra Felicidade",
+      "content": "A felicidade é um estado emocional — agradável, mas transitório. Persegui-la directamente é frequentemente contraproducente.\n\nO significado nasce de assumir responsabilidades, de enfrentar desafios, de contribuir para algo maior.\n\nCarregues os teus fardos — os fardos certos, escolhidos conscientemente. Esse peso não te esmaga. Dá-te forma."
+    }
+  ]
+}

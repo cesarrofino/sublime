@@ -1,0 +1,32 @@
+{
+  "id": "ser-verdadeiro",
+  "title": "A Vida Sem Máscara",
+  "author": "SubLime · Reflexão",
+  "category": "Bem-estar",
+  "summary": "Sobre honestidade radical — com os outros e, mais importante, consigo mesmo. O que significa ser verdadeiro num mundo que recompensa a performance.",
+  "cover_color": "#0f1a14",
+  "accent": "#7ac49a",
+  "year": "2024",
+  "pages": [
+    {
+      "title": "A Mentira Pequena",
+      "content": "Não são as grandes mentiras que nos destroem. São as pequenas.\n\n'Estou bem.' Quando não estamos. 'Não me importa.' Quando importa muito.\n\nCom o tempo, criamos um isolamento tão espesso que deixamos de saber quem está por baixo."
+    },
+    {
+      "title": "Honestidade com Si Mesmo",
+      "content": "A forma mais difícil de honestidade não é dizer a verdade aos outros. É dizê-la a ti mesmo.\n\nA auto-honestidade é o fundamento de tudo o resto. Sem ela, as decisões que tomas são baseadas em dados falsos."
+    },
+    {
+      "title": "Vulnerabilidade como Força",
+      "content": "Fomos ensinados que vulnerabilidade é fraqueza.\n\nBrené Brown chegou à conclusão oposta: a vulnerabilidade é a origem de toda a criatividade, pertença e amor genuíno.\n\nMostrar-te como és é o acto mais corajoso que existe."
+    },
+    {
+      "title": "Dizer o Que Se Sente",
+      "content": "'Isto magoou-me.' 'Preciso de ajuda.' 'Estou com medo.' 'Não sei.'\n\nEstas frases são aterrorizantes. Mas o custo de não as dizer é maior: uma vida inteira passada a ser uma versão editada de si mesmo."
+    },
+    {
+      "title": "A Integridade Como Lar",
+      "content": "Integridade significa ser o mesmo por dentro e por fora.\n\nQuando há integridade, há descanso. Não gastas energia a gerir versões diferentes de ti mesmo.\n\nÉ um trabalho diário de pequenas escolhas honestas. E cada escolha honesta constrói uma camada de confiança — em ti mesmo."
+    }
+  ]
+}

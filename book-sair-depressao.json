@@ -1,0 +1,32 @@
+{
+  "id": "sair-depressao",
+  "title": "Quando a Escuridão Chega",
+  "author": "SubLime · Reflexão",
+  "category": "Bem-estar",
+  "summary": "Um guia compassivo e honesto sobre a depressão — o que é, o que não é, e como encontrar o caminho de volta à luz.",
+  "cover_color": "#0d1520",
+  "accent": "#6a9fd4",
+  "year": "2024",
+  "pages": [
+    {
+      "title": "O Que É a Depressão",
+      "content": "A depressão não é fraqueza. Não é preguiça. Não é falta de fé ou de vontade.\n\nÉ uma doença — tão real quanto uma fractura num osso. O cérebro entra num estado de desequilíbrio que distorce tudo: a percepção do tempo, do futuro, do próprio valor.\n\nO primeiro passo para sair da escuridão é reconhecer que a escuridão não é a realidade. É um estado. E os estados mudam."
+    },
+    {
+      "title": "O Que Não Ajuda",
+      "content": "'Anima-te.' 'Pensa positivo.' 'Há quem esteja pior.'\n\nEstas frases, por mais bem intencionadas que sejam, ignoram a realidade do que a pessoa sente. A depressão não responde à lógica.\n\nO que ajuda é simples mas raro: presença sem julgamento. Ouvir sem tentar resolver. Dizer 'estou aqui' e cumprir essa promessa."
+    },
+    {
+      "title": "O Corpo como Aliado",
+      "content": "A mente adoecida precisa do corpo como âncora.\n\nMovimento físico regular tem um efeito mensurável na química cerebral. Não é necessário correr uma maratona. Sair de casa. Caminhar dez minutos. Sentir o sol na pele.\n\nAlimenta o corpo. Não perfectamente. Apenas conscientemente."
+    },
+    {
+      "title": "Pedir Ajuda é Coragem",
+      "content": "Pedir ajuda não é fraqueza. É o acto mais corajoso que uma pessoa pode praticar.\n\nFalar com um profissional de saúde mental não é admitir derrota. É reconhecer que o problema existe e que mereces suporte qualificado.\n\nSe estás a ler isto e reconheces em ti estes sinais: fala com alguém hoje. Não amanhã. Hoje."
+    },
+    {
+      "title": "Há Luz",
+      "content": "A depressão mente-te sobre o futuro. Diz-te que sempre será assim. Que não há saída.\n\nIsso é a doença a falar. Não é a verdade.\n\nMilhões de pessoas atravessaram a escuridão que sentes — e encontraram o outro lado.\n\nHá luz. Ela existe. E és capaz de a encontrar."
+    }
+  ]
+}

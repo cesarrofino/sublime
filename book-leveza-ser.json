@@ -1,0 +1,32 @@
+{
+  "id": "leveza-ser",
+  "title": "A Insustentável Leveza do Ser",
+  "author": "Milan Kundera",
+  "category": "Romance",
+  "summary": "Kundera entrelaça filosofia e amor numa história que explora a liberdade, o destino, o peso das escolhas e a contradição de sermos ao mesmo tempo livres e prisioneiros dos nossos afectos.",
+  "cover_color": "#1a0d2b",
+  "accent": "#9b7cc9",
+  "year": "1984",
+  "pages": [
+    {
+      "title": "Leveza e Peso",
+      "content": "O eterno retorno é a ideia mais pesada que existe. Se cada momento se repete infinitamente, cada decisão carrega um peso insuportável.\n\nMas se a vida acontece apenas uma vez, então tudo é leveza — e a leveza, descobre Kundera, pode ser igualmente insuportável."
+    },
+    {
+      "title": "O Acaso e o Amor",
+      "content": "Tomas conhece Tereza por puro acaso — uma série de coincidências improváveis que mudam tudo. E ainda assim sente que estava destinado a ela.\n\nSerá o amor uma escolha livre ou apenas o nome que damos às coincidências que nos tocam mais fundo?"
+    },
+    {
+      "title": "Liberdade e Responsabilidade",
+      "content": "Kundera mostra que a liberdade absoluta é um fardo. Quando tudo é possível, nada tem peso. Quando nada tem consequências, nada tem significado.\n\nA responsabilidade não é o oposto da liberdade — é o que lhe dá forma e substância."
+    },
+    {
+      "title": "O Corpo e a Alma",
+      "content": "A tensão entre o corpo e a alma percorre o romance. Sabina vive a leveza — ligações sem raízes, liberdade sem âncoras. Tereza vive o peso — amor como entrega total e permanente.\n\nNenhuma das duas encontra a paz. O romance sugere que a tensão entre os dois é a condição humana."
+    },
+    {
+      "title": "A Única Vez",
+      "content": "Einmal ist keinmal — uma vez é como nunca. Se algo acontece apenas uma vez, é como se não tivesse acontecido.\n\nMas Kundera inverte esta ideia: talvez seja exactamente por acontecer apenas uma vez que cada momento merece ser vivido com presença total e absoluta."
+    }
+  ]
+}

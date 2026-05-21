@@ -1,0 +1,32 @@
+{
+  "id": "tao-te-ching",
+  "title": "Tao Te Ching",
+  "author": "Lao Tsé",
+  "category": "Filosofia",
+  "summary": "O texto fundador do Taoísmo. 81 poemas sobre a natureza, a liderança e a arte de viver em harmonia com o fluxo do universo. Breve e inesgotável.",
+  "cover_color": "#0a1a14",
+  "accent": "#80c480",
+  "year": "600 a.C.",
+  "pages": [
+    {
+      "title": "O Tao que Pode Ser Dito",
+      "content": "O Tao que pode ser dito não é o Tao eterno.\nO nome que pode ser nomeado não é o nome eterno.\n\nO sem-nome é o princípio do céu e da terra.\nO com-nome é a mãe dos dez mil seres.\n\nEscuridão dentro da escuridão — a porta para todo o mistério.\n\nLao Tsé não define o Tao. Apenas aponta para ele. O dedo não é a lua. Mas pode mostrar onde olhar."
+    },
+    {
+      "title": "A Força da Água",
+      "content": "Nada no mundo é mais suave que a água.\nE no entanto nada é melhor a dissolver o duro e o rígido.\n\nO suave supera o duro.\nO maleável supera o rígido.\n\nA água não luta contra as pedras. Vai à volta delas — ou, com tempo suficiente, dissolve-as. Não porque seja forte. Porque é completamente ela mesma."
+    },
+    {
+      "title": "Wu Wei — Agir Sem Forçar",
+      "content": "O Tao não faz nada — e no entanto nada fica por fazer.\n\nWu wei não significa inacção. Significa acção sem forçar — sem resistir ao fluxo natural das coisas.\n\nO bambú dobra-se na tempestade e sobrevive. O carvalho rígido parte.\n\nA sabedoria está em saber quando agir e quando deixar agir."
+    },
+    {
+      "title": "Conhecer-se a Si Mesmo",
+      "content": "Conhecer os outros é sabedoria.\nConhecer-se a si mesmo é iluminação.\n\nVencer os outros requer força.\nVencer-se a si mesmo requer verdadeiro poder.\n\nO maior campo de batalha é interior. E a maior vitória é sobre as próprias limitações, medos e ilusões."
+    },
+    {
+      "title": "O Regresso",
+      "content": "O regresso é o movimento do Tao.\nA suavidade é o uso do Tao.\n\nTodo o ciclo da natureza é regresso — o rio volta ao mar, a semente volta à terra.\n\nO sábio não resiste a este ciclo. Não te agarres ao que foi. Não forces o que deve vir. Confia no fluxo."
+    }
+  ]
+}

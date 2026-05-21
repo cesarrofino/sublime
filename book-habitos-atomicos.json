@@ -1,0 +1,32 @@
+{
+  "id": "habitos-atomicos",
+  "title": "Hábitos Atómicos",
+  "author": "James Clear",
+  "category": "Motivação",
+  "summary": "Como pequenas mudanças de 1% criam resultados extraordinários ao longo do tempo. O sistema mais prático e científico para construir bons hábitos e eliminar os maus.",
+  "cover_color": "#0a1a0a",
+  "accent": "#7ec87e",
+  "year": "2018",
+  "pages": [
+    {
+      "title": "O Poder do 1%",
+      "content": "Se melhorares 1% todos os dias durante um ano, acabarás 37 vezes melhor do que eras no início.\n\nSe piorares 1% todos os dias, descerás quase a zero.\n\nO que importa não é o resultado de uma única acção — é o sistema que produz resultados ao longo do tempo.\n\nOs hábitos são o composto dos juros do auto-aperfeiçoamento. Da mesma forma que o dinheiro se multiplica com os juros compostos, os efeitos dos teus hábitos multiplicam-se à medida que os repetes.\n\nNão és o resultado das tuas intenções. És o resultado dos teus sistemas."
+    },
+    {
+      "title": "A Identidade por Trás dos Hábitos",
+      "content": "Existem três camadas de mudança de comportamento: a camada dos resultados, a camada dos processos e a camada da identidade.\n\nA maioria das pessoas começa pela camada exterior: 'Quero perder peso.' Ou 'Quero escrever um livro.'\n\nA abordagem mais poderosa começa por dentro: 'Que tipo de pessoa quero ser?'\n\nUma vez que sabes quem queres ser, cada pequena acção torna-se um voto a favor dessa identidade.\n\nCada vez que escreves uma página, estás a votar no tipo de pessoa que acredita ser escritor.\n\nOs hábitos não mudam os resultados. Mudam quem és."
+    },
+    {
+      "title": "As Quatro Leis dos Hábitos",
+      "content": "Para criar um bom hábito:\n\n1. Torna-o óbvio — o ambiente deve ser um lembrete visual.\n2. Torna-o atraente — associa-o a algo que gostas.\n3. Torna-o fácil — reduz a fricção ao mínimo.\n4. Torna-o satisfatório — dá-te uma recompensa imediata.\n\nPara eliminar um mau hábito inverte as quatro leis: torna-o invisível, pouco atraente, difícil e insatisfatório.\n\nO ambiente é mais poderoso do que a força de vontade. Desenha o teu espaço para que os bons hábitos sejam o caminho de menor resistência."
+    },
+    {
+      "title": "A Regra dos Dois Minutos",
+      "content": "Quando começas um novo hábito, deve demorar menos de dois minutos a fazer.\n\n'Ler antes de dormir cada noite' torna-se 'Ler uma página'.\n'Correr três quilómetros' torna-se 'Calçar os ténis de corrida'.\n\nO objectivo é aparecer — não ser perfeito. O hábito tem de se estabelecer antes de poder ser melhorado.\n\nNão tentes optimizar algo que ainda não existe. Primeiro torna-o consistente. Depois torna-o bom.\n\nUm hábito fraco que acontece todos os dias supera sempre um hábito forte que acontece raramente."
+    },
+    {
+      "title": "Nunca Falhar Duas Vezes",
+      "content": "A regra mais simples e mais poderosa dos hábitos é esta: nunca falhes duas vezes seguidas.\n\nFalhar uma vez é acidente. Falhar duas vezes é o início de um novo hábito — o hábito de desistir.\n\nOs grandes performers não são aqueles que nunca falham. São os que recuperam rapidamente após a falha.\n\nUm dia mau não te destrói. O que te destrói é a espiral de dias maus que se seguem porque decidiste que 'já que falhei hoje, tanto faz'.\n\nPerde um treino. Não percas dois. Essa é a diferença entre quem chega lá e quem não chega."
+    }
+  ]
+}

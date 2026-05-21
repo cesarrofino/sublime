@@ -1,0 +1,32 @@
+{
+  "id": "amor-tempos-colera",
+  "title": "O Amor nos Tempos do Cólera",
+  "author": "Gabriel García Márquez",
+  "category": "Romance",
+  "summary": "Uma das maiores histórias de amor da literatura universal. Florentino Ariza espera mais de cinquenta anos pela mulher que ama. Uma meditação profunda sobre o amor, o tempo, a paciência e a fidelidade ao coração.",
+  "cover_color": "#1a1a0a",
+  "accent": "#c9a84c",
+  "year": "1985",
+  "pages": [
+    {
+      "title": "O Amor como Destino",
+      "content": "Florentino Ariza viu Fermina Daza uma única vez e soube: era ela. Não havia explicação racional — era simplesmente uma certeza absoluta que o seu coração reconheceu antes da sua mente.\n\nHá amores que escolhem antes de pedirmos permissão."
+    },
+    {
+      "title": "A Espera como Forma de Amor",
+      "content": "Durante cinquenta e um anos, nove meses e quatro dias, Florentino Ariza esperou. Não com resignação — com determinação silenciosa e inabalável.\n\nA espera verdadeira não é passiva. É uma forma activa de fidelidade ao que o coração reconheceu como verdadeiro."
+    },
+    {
+      "title": "O Tempo e o Amor",
+      "content": "García Márquez mostra que o amor verdadeiro não tem prazo de validade. Que o coração humano tem uma memória mais longa do que o corpo.\n\nO tempo pode mudar tudo — os rostos, os corpos, os lugares — mas não apaga o que foi genuinamente sentido."
+    },
+    {
+      "title": "A Coragem de Amar",
+      "content": "Amar de verdade exige uma coragem particular: a coragem de ser vulnerável, de arriscar a rejeição, de manter a chama acesa mesmo quando tudo parece impossível.\n\n'Não há medicina que cure o que não cura a felicidade.' — García Márquez"
+    },
+    {
+      "title": "O Amor na Velhice",
+      "content": "O romance termina com um dos finais mais belos da literatura: dois velhos no barco, navegando para nunca mais parar. O amor que sobreviveu ao tempo prova ser maior do que o tempo.\n\nO amor não tem idade. Tem apenas a profundidade que lhe dermos."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "poder-habito",
+  "title": "O Poder do Hábito",
+  "author": "Charles Duhigg",
+  "category": "Psicologia",
+  "summary": "Jornalista do New York Times investiga a neurociência por trás dos hábitos. Explica o ciclo pista-rotina-recompensa e como qualquer hábito pode ser mudado quando se conhece a sua estrutura.",
+  "cover_color": "#0f1a28",
+  "accent": "#70a0d4",
+  "year": "2012",
+  "pages": [
+    {
+      "title": "O Ciclo do Hábito",
+      "content": "No centro de cada hábito existe um ciclo neurológico simples e poderoso.\n\nUma pista — um gatilho que diz ao cérebro para entrar em modo automático.\nUma rotina — o comportamento físico, mental ou emocional que se segue.\nUma recompensa — que ajuda o cérebro a decidir se vale a pena memorizar este ciclo.\n\nAo longo do tempo, este ciclo torna-se cada vez mais automático. O cérebro deixa de participar activamente — passa a delegar.\n\nIsso é extraordinariamente eficiente. Mas também significa que maus hábitos seguem exactamente o mesmo processo que os bons — e são igualmente difíceis de quebrar sem compreender a sua estrutura.\n\nO primeiro passo para mudar um hábito é identificar o ciclo. Qual é a pista? Qual é a recompensa real que procuras?"
+    },
+    {
+      "title": "A Regra de Ouro da Mudança",
+      "content": "Não podes extinguir um mau hábito. Só podes substituí-lo.\n\nA regra de ouro é simples: mantém a mesma pista e a mesma recompensa — mas muda a rotina.\n\nSe fumas quando estás stressado (pista: stress; recompensa: relaxamento), o cigarro pode ser substituído por uma caminhada, respiração profunda, ou qualquer outra rotina que entregue a mesma recompensa de relaxamento.\n\nO cérebro não distingue entre as rotinas — só reconhece a pista e aguarda a recompensa. A rotina é a única variável que podes substituir.\n\nIsto explica porque muitas tentativas de mudança falham: tentam remover o comportamento sem perceber que a pista e a recompensa continuam activas, à espera de ser satisfeitas."
+    },
+    {
+      "title": "Hábitos Angulares",
+      "content": "Alguns hábitos têm um poder desproporcional — quando se instalam, arrastam outros hábitos consigo.\n\nDuhigg chama-lhes hábitos angulares.\n\nO exercício físico regular é o exemplo clássico. As pessoas que começam a exercitar regularmente começam também, espontaneamente, a comer melhor, a dormir mais, a ser mais produtivas no trabalho, a fumar menos.\n\nNão porque decidiram fazer todas essas mudanças. Mas porque o exercício é um hábito angular — instala padrões que se propagam.\n\nA questão não é mudar tudo de uma vez. É encontrar o hábito angular certo — e deixá-lo fazer o trabalho pesado."
+    },
+    {
+      "title": "A Força de Vontade como Músculo",
+      "content": "A investigação de Duhigg confirma algo que os estoicos intuíam: a força de vontade é um recurso que se esgota.\n\nÉ como um músculo — quanto mais a usas num dia, menos tens disponível para o resto.\n\nIsso explica porque as decisões difíceis são mais difíceis ao fim do dia. Porque os médicos de urgência tomam piores decisões ao entardecer. Porque as dietas costumam falhar ao jantar.\n\nA solução não é ter mais força de vontade. É precisar menos dela.\n\nQuando transformas um comportamento desejado em hábito automático, deixa de precisar de força de vontade. O comportamento acontece sem esforço consciente — libertando recursos para o que realmente importa."
+    },
+    {
+      "title": "Acreditar na Mudança",
+      "content": "O elemento que separa as pessoas que conseguem mudar hábitos das que não conseguem não é técnica. É crença.\n\nAs pessoas que mudam acreditam — genuinamente — que a mudança é possível. Não são mais disciplinadas. Não têm mais força de vontade. Mas têm fé que o novo comportamento vai funcionar.\n\nIsto é particularmente evidente em grupos de apoio como os Alcoólicos Anónimos. A componente espiritual não é acessória — é central. Não necessariamente fé religiosa, mas a crença de que as coisas podem ser diferentes.\n\nA mudança é possível. Mas começa sempre com a convicção de que ela é possível."
+    }
+  ]
+}

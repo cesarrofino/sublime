@@ -1,0 +1,18 @@
+{
+  "id": "meditacoes",
+  "title": "Meditações",
+  "author": "Marco Aurélio",
+  "category": "Filosofia",
+  "summary": "Reflexões íntimas de um imperador sobre a disciplina mental, a virtude e a efemeridade da vida. Uma das obras mais profundas do estoicismo.",
+  "cover_color": "#2a1f3d",
+  "accent": "#c9a96e",
+  "year": "161–180 d.C.",
+  "pages": [
+    {"title": "Prefácio", "content": "Este livro não foi escrito para ser publicado. Marco Aurélio escreveu estas meditações apenas para si mesmo — como exercícios espirituais, como lembretes diários de como viver com virtude, razão e tranquilidade.\n\nEle nunca se chamou de filósofo. Chamava-se apenas um homem que tentava ser melhor a cada dia.\n\nLeia devagar. Pause. Respire."},
+    {"title": "Livro I — Gratidão", "content": "Do meu avô Vero aprendi a ser gentil e manso, e a dominar a ira.\n\nDo carácter e da reputação do meu pai aprendi a ser modesto e viril.\n\nDa minha mãe aprendi a piedade e a generosidade, a abster-me não só do mal como até dos maus pensamentos, e ainda a simplicidade de vida, bem afastada dos costumes dos ricos."},
+    {"title": "Livro II — O Presente", "content": "Começa a manhã dizendo a ti mesmo: encontrarei pessoas intrometidas, ingratas, arrogantes, desonestas, invejosas e antissociais.\n\nMas eu as trato assim porque não conhecem a diferença entre o bem e o mal.\n\nNão podes perder o passado nem o futuro — como podes perder o que não tens?\n\nConcentra-te no presente. É o único lugar onde a vida acontece."},
+    {"title": "Livro V — A Disciplina", "content": "De manhã cedo, quando te levantares com relutância, deixa que este pensamento esteja presente: levanto-me para o trabalho de um ser humano.\n\nPor que razão fico contrariado se vou fazer aquilo para que nasci?\n\nOu é este o meu destino, para me deitar e manter-me quente? — Mas é mais agradável. — Então nasceste para o prazer?\n\nConsidera a planta, o pássaro, a formiga, a abelha — todos a fazer o seu trabalho. E tu recusas fazer o trabalho de um humano?"},
+    {"title": "Livro VI — Equanimidade", "content": "Se não é correcto, não o faças. Se não é verdadeiro, não o digas.\n\nA tua vida é a expressão dos teus pensamentos. Portanto, toma conta dos teus pensamentos.\n\nNão te preocupes com o que os outros pensam de ti. Preocupa-te com o que és, não com o que pareces.\n\nVive como se fosse sempre a última hora."},
+    {"title": "Livro XII — Conclusão", "content": "As coisas não tocam a alma: não têm entrada para ela, e nenhuma perturbação pode alterar ou mover a alma.\n\nA única coisa que não é fútil: viver de acordo com a verdade. Agir com virtude. Aceitar o que não pode ser mudado.\n\nE depois, silêncio. O suficiente é suficiente."}
+  ]
+}

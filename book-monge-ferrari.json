@@ -1,0 +1,32 @@
+{
+  "id": "monge-ferrari",
+  "title": "O Monge que Vendeu o seu Ferrari",
+  "author": "Robin Sharma",
+  "category": "Motivação",
+  "summary": "A parábola de Julian Mantle — um advogado de sucesso que colapsa em pleno tribunal e parte para o Himalaia. Regressa transformado com sete virtudes para uma vida com propósito.",
+  "cover_color": "#1a1000",
+  "accent": "#f0a030",
+  "year": "1997",
+  "pages": [
+    {
+      "title": "O Colapso de Julian Mantle",
+      "content": "Julian Mantle tinha tudo o que a sociedade diz que devemos querer. Um Ferrari vermelho. Uma reputação que fazia tremer júris inteiros.\n\nE então, em pleno tribunal, o seu coração parou.\n\nEnquanto jazia no chão de mármore frio, Julian teve um pensamento único: 'Trabalhei a minha vida inteira para construir algo — e nunca percebi que estava a destruir-me.'"
+    },
+    {
+      "title": "Os Sábios do Sivana",
+      "content": "Julian desapareceu. Meses depois regressou — transformado de forma que ninguém conseguia explicar. Mais jovem. Mais sereno.\n\nTinha ido ao Himalaia. Tinha encontrado os Sábios do Sivana.\n\n'O que aprendi ali não pode ser comprado com dinheiro. E é mais valioso do que tudo o que alguma vez acumulei.'"
+    },
+    {
+      "title": "A Virtude do Propósito",
+      "content": "Sem propósito, a vida é apenas movimento.\n\nPodes estar extremamente ocupado sem estar a ir a lado nenhum que importe.\n\nPergunta-te: se soubesses que tens apenas seis meses de vida, como os viveria? Essas respostas são o mapa do teu propósito."
+    },
+    {
+      "title": "Kaizen — Melhoria Contínua",
+      "content": "Os sábios ensinaram Julian a palavra japonesa Kaizen — o compromisso com a melhoria contínua em todas as áreas da vida.\n\nNão transformações dramáticas. Pequenos passos, todos os dias, na direcção de quem queres ser.\n\nUm por cento melhor hoje. Composto ao longo do tempo, esse um por cento torna-se irreconhecível."
+    },
+    {
+      "title": "O Presente Mais Precioso",
+      "content": "'O passado é história. O futuro é mistério. Mas o momento presente é um presente — por isso se chama presente.'\n\nOs monges do Sivana não tinham Ferrari. Mas tinham algo que Julian levara décadas a perceber ser mais valioso:\n\nEstavam completamente, absolutamente vivos."
+    }
+  ]
+}

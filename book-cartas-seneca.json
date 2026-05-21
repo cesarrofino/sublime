@@ -1,0 +1,32 @@
+{
+  "id": "cartas-seneca",
+  "title": "Cartas a Lucílio",
+  "author": "Séneca",
+  "category": "Filosofia",
+  "summary": "Cartas escritas no final da vida de Séneca ao seu amigo Lucílio. Uma das obras mais íntimas da filosofia ocidental sobre o tempo, a morte e o que é verdadeiramente viver.",
+  "cover_color": "#2a1a0a",
+  "accent": "#c9a96e",
+  "year": "65 d.C.",
+  "pages": [
+    {
+      "title": "Carta I — Resgata o Teu Tempo",
+      "content": "Faz assim, meu Lucílio: reivindica para ti mesmo o teu tempo. Agarra-o e guarda-o.\n\nAlguns momentos são-nos arrebatados, outros subtraídos, outros escoam-se. Mas o mais vergonhoso é a perda por negligência.\n\nVive imediatamente."
+    },
+    {
+      "title": "Carta V — Sobre a Filosofia",
+      "content": "A filosofia promete sobretudo bom senso, humanidade e companheirismo.\n\nAfastar-nos dos homens não pode levar-nos ao caminho certo. Entre a austeridade e a luxúria existe uma linha justa — e é nessa linha que o sábio caminha."
+    },
+    {
+      "title": "Carta XLIX — A Brevidade da Vida",
+      "content": "Não precisamos de mais tempo; precisamos de usar melhor o que temos.\n\nO que nos perde não é a falta de tempo, mas a abundância de distracções.\n\nA vida é longa se souberes usá-la. Não esperes ter tempo livre para começar a viver."
+    },
+    {
+      "title": "Carta LXX — Sobre a Morte",
+      "content": "Viver não é o bem mais elevado; o bem mais elevado é viver bem.\n\nO sábio vive tanto quanto deve, não tanto quanto pode.\n\nA morte não é inimiga — é o limite que dá forma à vida. Um quadro sem moldura não tem definição."
+    },
+    {
+      "title": "Carta LXXVII — A Arte de Bastar",
+      "content": "Tudo, Lucílio, é alheio — apenas o tempo é nosso.\n\nE no entanto é precisamente o tempo que é distribuído sem parcimónia, porque quem o rouba não é facilmente apanhado.\n\nO tempo é o único capital que não pode ser recomposto. Por isso: não o gastes a agir como se fosses viver para sempre."
+    }
+  ]
+}

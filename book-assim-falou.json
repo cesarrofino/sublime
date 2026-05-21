@@ -1,0 +1,32 @@
+{
+  "id": "assim-falou",
+  "title": "Assim Falou Zaratustra",
+  "author": "Friedrich Nietzsche",
+  "category": "Filosofia",
+  "summary": "A obra mais poética e visionária de Nietzsche. Uma meditação sobre a superação humana, o eterno retorno e o amor ao destino.",
+  "cover_color": "#1f1a2e",
+  "accent": "#9b7fa6",
+  "year": "1883",
+  "pages": [
+    {
+      "title": "Prólogo — O Dom",
+      "content": "Quando Zaratustra tinha trinta anos, abandonou a sua terra e foi para as montanhas. Ali desfrutou do seu espírito e da sua solidão durante dez anos.\n\nMas por fim o seu coração transformou-se — e uma manhã levantou-se com a aurora e assim falou ao sol:\n\n'Grande astro! Que seria da tua felicidade se não tivesses aqueles a quem iluminas?'"
+    },
+    {
+      "title": "As Três Metamorfoses",
+      "content": "Três metamorfoses do espírito vos menciono: como o espírito se torna camelo, e o camelo, leão, e o leão, por fim, criança.\n\nInocência é a criança e esquecimento, um novo começo, um jogo, uma roda que gira por si própria, um primeiro movimento, um sagrado dizer Sim."
+    },
+    {
+      "title": "Amor ao Destino",
+      "content": "A minha fórmula para a grandeza do homem é amor fati: não querer que nada seja diferente, nem no passado, nem no futuro.\n\nNão apenas suportar o necessário — mas amá-lo.\n\nBenção sobre aquele que diz: era assim — e o ama."
+    },
+    {
+      "title": "O Eterno Retorno",
+      "content": "E se um dia um demônio te dissesse: 'Esta vida, tal como a vives agora, terás de a viver mais uma vez e incontáveis vezes.'\n\nNão te atirarás ao chão e amaldiçoarás o demônio?\n\nOu terás vivido um momento em que lhe respondesses: 'És um deus e nunca ouvi nada mais divino!'?"
+    },
+    {
+      "title": "O Dom de Si",
+      "content": "Amo aquele que quer criar para além de si mesmo, e assim perece.\n\nAmo aquele que ama a sua virtude: pois a virtude é vontade de declínio e uma flecha de anseio.\n\nEste é o caminho — não há outro. E a grandeza está em percorrê-lo completamente."
+    }
+  ]
+}

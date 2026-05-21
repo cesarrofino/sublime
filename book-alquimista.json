@@ -1,0 +1,32 @@
+{
+  "id": "alquimista",
+  "title": "O Alquimista",
+  "author": "Paulo Coelho",
+  "category": "Sabedoria",
+  "summary": "A parábola de um pastor andaluz em busca do seu tesouro pessoal. Sobre ouvir o coração, reconhecer os sinais e ter coragem de seguir o próprio destino.",
+  "cover_color": "#1f1a0d",
+  "accent": "#d4aa50",
+  "year": "1988",
+  "pages": [
+    {
+      "title": "A Lenda Pessoal",
+      "content": "Quando se quer alguma coisa, todo o universo conspira para que a pessoa possa realizar o seu sonho.\n\nNo início da juventude, tudo é claro e tudo é possível. Mas à medida que o tempo passa, uma misteriosa força tenta provar que é impossível realizar a lenda pessoal."
+    },
+    {
+      "title": "A Linguagem do Mundo",
+      "content": "'A Alma do Mundo é alimentada pela felicidade das pessoas.'\n\nO rapaz percebeu que estava a aprender uma outra linguagem — sem palavras, uma linguagem que se lia com o coração. Uma linguagem que o sol, o vento e o deserto falavam."
+    },
+    {
+      "title": "O Coração",
+      "content": "'Por que devo ouvir o meu coração?'\n\n'Porque onde ele estiver, ali estará o teu tesouro.'\n\n'Diz ao teu coração que o medo de sofrer é pior que o próprio sofrimento. Nenhum coração jamais sofreu quando foi em busca dos seus sonhos.'"
+    },
+    {
+      "title": "O Tesouro",
+      "content": "O deserto estava em silêncio. E o silêncio dizia-lhe coisas que as palavras nunca poderiam.\n\nO segredo da vida era cair sete vezes e levantar-se oito. E o maior milagre não era o tesouro — era ter tido coragem de o procurar."
+    },
+    {
+      "title": "Maktub",
+      "content": "Maktub — está escrito.\n\nMas não como uma sentença de que não há fuga. Está escrito como uma possibilidade, como um convite.\n\nA tua lenda pessoal está escrita. Mas só tu podes lê-la. E só tu podes vivê-la."
+    }
+  ]
+}

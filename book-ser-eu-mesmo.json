@@ -1,0 +1,32 @@
+{
+  "id": "ser-eu-mesmo",
+  "title": "A Coragem de Ser Eu",
+  "author": "SubLime · Reflexão",
+  "category": "Bem-estar",
+  "summary": "Uma exploração profunda sobre identidade e autenticidade. Para quem se perdeu no caminho de agradar ao mundo.",
+  "cover_color": "#1a0d1f",
+  "accent": "#b07fd4",
+  "year": "2024",
+  "pages": [
+    {
+      "title": "A Máscara",
+      "content": "Desde cedo aprendemos a usar máscaras.\n\nA criança que chora e ouve 'para de chorar'. O adolescente que sente algo diferente e aprende a esconder. O adulto que diz 'estou bem' quando não está.\n\nUm dia olhas ao espelho e reconheces o rosto — mas não a pessoa por trás dele."
+    },
+    {
+      "title": "O Olhar dos Outros",
+      "content": "Vivemos constantemente sob o peso do julgamento alheio — real ou imaginário.\n\nO que vão pensar? Vão gostar de mim? Vou ser aceite?\n\nA liberdade começa quando percebes que a opinião dos outros sobre ti é assunto deles. A tua vida é assunto teu."
+    },
+    {
+      "title": "Valores como Bússola",
+      "content": "Pergunta-te: o que valorizo de verdade? Não o que devia valorizar. O que valorizo eu — quando estou sozinho, quieto, honesto comigo mesmo?\n\nEscreve essas coisas. Nomeia-as. Esses valores são a tua bússola quando a vida te pressiona."
+    },
+    {
+      "title": "Fronteiras como Amor-Próprio",
+      "content": "Dizer não é um acto de amor — por ti e pelo outro.\n\nAs fronteiras não são muros. São a definição do espaço onde existes.\n\nA pessoa que respeitas as tuas fronteiras pode confiar em ti — porque sabe que o teu 'sim' é verdadeiro."
+    },
+    {
+      "title": "Tornar-se Quem Se É",
+      "content": "Nietzsche escreveu: 'Torna-te o que és.'\n\nIsso supõe que já existe um 'tu' por baixo de tudo — por baixo das camadas de expectativas, medos e memórias dolorosas.\n\nO trabalho de uma vida não é construir uma pessoa de raiz. É escavar. Remover o que não é teu. Libertar o que sempre esteve lá."
+    }
+  ]
+}

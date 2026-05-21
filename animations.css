@@ -1,0 +1,116 @@
+/* SubLime — Animations */
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInSlow {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.94); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
+
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes floatIn {
+  from { opacity: 0; transform: translateY(40px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 20px rgba(201,169,110,0.1); }
+  50%       { box-shadow: 0 0 40px rgba(201,169,110,0.2); }
+}
+
+@keyframes pageFlip {
+  0%   { opacity: 1; transform: translateX(0); }
+  50%  { opacity: 0; transform: translateX(-30px); }
+  51%  { opacity: 0; transform: translateX(30px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes pageFlipRight {
+  0%   { opacity: 1; transform: translateX(0); }
+  50%  { opacity: 0; transform: translateX(30px); }
+  51%  { opacity: 0; transform: translateX(-30px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes dotBreath {
+  0%, 100% { transform: scale(1); opacity: 0.6; }
+  50%       { transform: scale(1.4); opacity: 1; }
+}
+
+@keyframes pinShake {
+  0%, 100% { transform: translateX(0); }
+  20%       { transform: translateX(-6px); }
+  40%       { transform: translateX(6px); }
+  60%       { transform: translateX(-4px); }
+  80%       { transform: translateX(4px); }
+}
+
+@keyframes spinSlow {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes typewriter {
+  from { width: 0; }
+  to   { width: 100%; }
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0; }
+}
+
+/* Utility animation classes */
+.anim-fade-in   { animation: fadeIn 0.5s ease forwards; }
+.anim-fade-slow { animation: fadeInSlow 1s ease forwards; }
+.anim-slide-up  { animation: slideUp 0.5s cubic-bezier(.25,.8,.25,1) forwards; }
+.anim-scale-in  { animation: scaleIn 0.4s cubic-bezier(.25,.8,.25,1) forwards; }
+.anim-float-in  { animation: floatIn 0.7s cubic-bezier(.25,.8,.25,1) forwards; }
+
+.anim-delay-1 { animation-delay: 0.1s; }
+.anim-delay-2 { animation-delay: 0.2s; }
+.anim-delay-3 { animation-delay: 0.3s; }
+.anim-delay-4 { animation-delay: 0.4s; }
+.anim-delay-5 { animation-delay: 0.5s; }
+
+/* Page transition */
+.page-flip-left  { animation: pageFlip 0.35s ease forwards; }
+.page-flip-right { animation: pageFlipRight 0.35s ease forwards; }
+
+/* Glow */
+.glow-gold { animation: glowPulse 3s ease infinite; }
+
+/* Loading skeleton */
+.skeleton {
+  background: linear-gradient(90deg, #1a1a1f 25%, #222228 50%, #1a1a1f 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 6px;
+}

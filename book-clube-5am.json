@@ -1,0 +1,32 @@
+{
+  "id": "clube-5am",
+  "title": "O Clube das 5 da Manhã",
+  "author": "Robin Sharma",
+  "category": "Motivação",
+  "summary": "Sharma propõe que as primeiras horas do dia são o segredo dos mais realizados. Como a rotina matinal transforma a produtividade, a saúde e a paz interior.",
+  "cover_color": "#0a1520",
+  "accent": "#f0b840",
+  "year": "2018",
+  "pages": [
+    {
+      "title": "A Hora da Vitória",
+      "content": "As primeiras horas do dia — antes do mundo acordar, antes dos emails chegarem — são as horas mais valiosas da existência.\n\nSão as horas em que a mente está mais descansada, mais criativa. São as horas em que podes ser tu — não o funcionário, não o pai sobrecarregado.\n\nO silêncio da manhã é o espaço onde te encontras a ti mesmo antes que o mundo te encontre a ti."
+    },
+    {
+      "title": "A Fórmula 20/20/20",
+      "content": "Os primeiros 20 minutos: movimento intenso. Exercício que activa o cérebro.\n\nOs segundos 20 minutos: reflexão. Meditação, journaling, gratidão.\n\nOs terceiros 20 minutos: crescimento. Ler, aprender, estudar.\n\nUma hora que a maioria das pessoas passa a verificar o telemóvel. A diferença entre as duas escolhas acumula-se em anos de resultados completamente diferentes."
+    },
+    {
+      "title": "O Poder do Hábito Matinal",
+      "content": "Quando acordas e imediatamente verificas o telemóvel, estás a colocar a tua atenção nas mãos de outra pessoa antes de teres tomado o pequeno-almoço.\n\nQuando deliberadamente escolhes como gastas a primeira hora, estás a declarar que és o autor da tua vida — não apenas um personagem na história dos outros."
+    },
+    {
+      "title": "Solidão e Silêncio",
+      "content": "Num mundo de ruído constante, o silêncio tornou-se um acto radical.\n\nAs 5 da manhã oferecem solidão genuína — o tipo que não é solidão, é comunhão contigo mesmo.\n\nÉ no silêncio que os problemas encontram soluções que o barulho do dia nunca permitiria."
+    },
+    {
+      "title": "Consistência É Tudo",
+      "content": "O maior inimigo da rotina matinal não é a falta de disciplina. É a excepção.\n\nA consistência não é para os dias em que te apetece. É precisamente para os dias em que não apetece — são esses os dias que definem o carácter.\n\nA consistência, composta ao longo do tempo, transforma-se em identidade."
+    }
+  ]
+}

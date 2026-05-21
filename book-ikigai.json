@@ -1,0 +1,32 @@
+{
+  "id": "ikigai",
+  "title": "Ikigai",
+  "author": "Héctor García & Francesc Miralles",
+  "category": "Sabedoria",
+  "summary": "O segredo japonês para uma vida longa e feliz. Ikigai significa 'a razão de ser' — o ponto de convergência entre o que amas, o que és bom, o que o mundo precisa e o que te sustenta.",
+  "cover_color": "#1a0a14",
+  "accent": "#e07aaa",
+  "year": "2016",
+  "pages": [
+    {
+      "title": "O Que é o Ikigai",
+      "content": "Em japonês, iki significa vida e gai significa valor ou razão. Ikigai é, literalmente, a razão de levantar da cama de manhã.\n\nNão é necessariamente algo grandioso. Para muitos japoneses, especialmente os de Okinawa — a região com mais centenários do mundo —, o ikigai é algo simples: cultivar o jardim, cozinhar para a família, ensinar os mais novos.\n\nO ikigai está na convergência de quatro questões:\nO que amas?\nNo que és bom?\nO que o mundo precisa?\nPelo que podes ser pago?\n\nNão precisas de responder a todas de uma vez. Mas as respostas, exploradas com honestidade, apontam na direcção da vida que vale a pena viver."
+    },
+    {
+      "title": "O Segredo de Okinawa",
+      "content": "Okinawa tem a maior concentração de centenários do mundo. Os investigadores foram estudar porquê.\n\nNão encontraram uma dieta milagrosa. Não encontraram um suplemento secreto.\n\nEncontraram comunidade. Propósito. Movimento suave e constante. Comida simples em quantidades moderadas. E o conceito de moai — grupos de amigos próximos que se apoiam mutuamente durante décadas.\n\nOs centenários de Okinawa nunca se 'reformam' no sentido ocidental. Continuam a fazer o que amam — mais devagar, com mais sabedoria — até ao fim.\n\nO propósito não é algo que se tem quando se é jovem e se perde quando se fica velho. É algo que se cultiva a vida toda."
+    },
+    {
+      "title": "Flow — A Arte do Esquecimento",
+      "content": "Mihaly Csikszentmihalyi chamou-lhe flow: o estado em que estás tão absorto numa actividade que perdes a noção do tempo.\n\nÉ quando o escritor olha para o relógio e percebe que passaram quatro horas. Quando o músico termina de tocar e não sabe onde foi o ensaio.\n\nO flow acontece quando o desafio está ligeiramente acima das tuas capacidades actuais — suficiente para te esticar, não tanto que te paralise.\n\nO ikigai e o flow estão profundamente ligados. Quando encontras a tua razão de ser e a pratiques com atenção plena, o flow acontece naturalmente.\n\nÉ aí que a vida tem mais sabor."
+    },
+    {
+      "title": "A Arte de Não Se Apressar",
+      "content": "Os habitantes de Okinawa têm um conceito chamado hara hachi bu — come até estares 80% saciado.\n\nMas este princípio vai além da comida. É uma filosofia de vida: não esgotes os teus recursos. Deixa sempre espaço.\n\nEspaço para descansar. Espaço para brincar. Espaço para o inesperado.\n\nA cultura ocidental celebra a ocupação total. 'Estou muito ocupado' tornou-se um símbolo de status. Mas a investigação sobre longevidade aponta noutra direcção: as pessoas que vivem mais são as que se movem devagar, comem devagar, e nunca esgotam a sua energia.\n\nHar hachi bu. Fica com 20% de reserva. Sempre."
+    },
+    {
+      "title": "Encontrar o Teu Ikigai",
+      "content": "O ikigai não se encontra num fim-de-semana de reflexão.\n\nDescobre-se ao longo do tempo, através da experimentação, da atenção ao que te dá energia e ao que te drena, ao que te faz perder a noção do tempo e ao que te deixa vazio.\n\nAlgumas perguntas para começar:\nO que farias se o dinheiro não fosse uma preocupação?\nO que fazias em criança que te absorvia completamente?\nQuando foi a última vez que perdeste a noção do tempo?\nQue problema do mundo gostarias de ajudar a resolver?\n\nNão há resposta errada. Há apenas a honestidade de ouvir o que já sabes — e ter coragem de viver de acordo com isso."
+    }
+  ]
+}

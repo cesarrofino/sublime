@@ -1,0 +1,32 @@
+{
+  "id": "homem-em-busca",
+  "title": "O Homem em Busca de Sentido",
+  "author": "Viktor Frankl",
+  "category": "Psicologia",
+  "summary": "O testemunho devastador e esperançoso de um psiquiatra sobrevivente dos campos de concentração nazis. Sobre como encontrar significado mesmo no sofrimento extremo.",
+  "cover_color": "#141a22",
+  "accent": "#7ea8c9",
+  "year": "1946",
+  "pages": [
+    {
+      "title": "O Último dos Direitos Humanos",
+      "content": "Tudo pode ser tirado a um homem excepto uma coisa: a última das liberdades humanas — escolher a sua atitude em qualquer conjunto de circunstâncias.\n\nEntre o estímulo e a resposta existe um espaço. Nesse espaço reside o nosso poder de escolher. Na nossa resposta reside a nossa liberdade."
+    },
+    {
+      "title": "O Sentido do Sofrimento",
+      "content": "O sofrimento de alguma forma deixa de ser sofrimento no momento em que encontra um sentido.\n\nNinguém pode aliviar o teu sofrimento ou sofrer em teu lugar. A tua única oportunidade reside na atitude que adoptas perante ele.\n\nNão há situação tão horrível que não contenha uma centelha de humanidade."
+    },
+    {
+      "title": "A Pergunta da Vida",
+      "content": "O homem não deveria perguntar qual é o sentido da sua vida, mas reconhecer que é ele quem é interrogado. A vida pergunta a cada um de nós.\n\nA nossa resposta tem de ser dada não em palavras, mas em acções e em conduta. A vida significa assumir a responsabilidade de encontrar a resposta correcta."
+    },
+    {
+      "title": "Amor como Salvação",
+      "content": "O amor é o objectivo último e mais alto a que o homem pode aspirar.\n\nO homem que não tem nada mais neste mundo pode ainda conhecer a bem-aventurança na contemplação do seu amado.\n\nO seu olhar era então mais luminoso do que o sol que começava a nascer."
+    },
+    {
+      "title": "A Tríade Trágica",
+      "content": "A tragicidade da existência humana: dor, culpa e morte.\n\nMas como pode o homem dizer sim à vida apesar de tudo isso?\n\nO sofrimento transforma-se em realização. A culpa dá-nos a oportunidade de mudar. A transitoriedade incita-nos à acção responsável.\n\nO optimismo não se pode ordenar. Mas pode-se encarar o que a vida traz e encontrar — mesmo nos dias mais sombrios — uma razão para continuar."
+    }
+  ]
+}

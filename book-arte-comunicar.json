@@ -1,0 +1,32 @@
+{
+  "id": "arte-comunicar",
+  "title": "A Arte de Comunicar",
+  "author": "Thich Nhat Hanh",
+  "category": "Relacionamentos",
+  "summary": "O mestre zen Thich Nhat Hanh mostra como a comunicação consciente e compassiva pode transformar os nossos relacionamentos, reduzir o sofrimento e criar pontes verdadeiras entre as pessoas.",
+  "cover_color": "#0d2b3e",
+  "accent": "#5ba3c9",
+  "year": "2013",
+  "pages": [
+    {
+      "title": "Comunicar com Presença",
+      "content": "A comunicação profunda começa com a presença plena. Quando falamos sem estar verdadeiramente presentes, as nossas palavras chegam vazias.\n\nOuvir de verdade é um dos gestos mais raros e preciosos que podemos oferecer a outra pessoa."
+    },
+    {
+      "title": "Escuta Compassiva",
+      "content": "A escuta compassiva tem um único propósito: ajudar a outra pessoa a sofrer menos. Quando ouvimos com compaixão, não precisamos de reagir — apenas de estar presentes.\n\nO maior presente que podemos dar é a nossa atenção total, sem julgamento e sem pressa."
+    },
+    {
+      "title": "Fala Amorosa",
+      "content": "A fala amorosa é verdadeira, gentil e útil. Antes de falar, pergunta: é verdade? é necessário? é gentil?\n\nPalavras podem construir pontes ou muros. A escolha é sempre nossa — e revela quem somos."
+    },
+    {
+      "title": "Resolver Conflitos",
+      "content": "O conflito não é o inimigo do relacionamento — é um professor. O que importa não é evitá-lo, mas atravessá-lo com consciência e respeito mútuo.\n\nQuando dois lados escutam antes de responder, o conflito já perdeu metade da sua força."
+    },
+    {
+      "title": "Conectar Verdadeiramente",
+      "content": "Ligar-se de verdade a outra pessoa requer vulnerabilidade. É preciso mostrar o que sentimos, não apenas o que pensamos.\n\nA conexão autêntica não exige perfeição — exige honestidade e a coragem de ser visto tal como somos."
+    }
+  ]
+}

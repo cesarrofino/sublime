@@ -1,0 +1,32 @@
+{
+  "id": "arte-amar",
+  "title": "A Arte de Amar",
+  "author": "Erich Fromm",
+  "category": "Psicologia",
+  "summary": "Fromm argumenta que o amor não é um sentimento que acontece — é uma arte que se aprende e pratica. Uma análise profunda sobre o que significa amar verdadeiramente.",
+  "cover_color": "#220f0f",
+  "accent": "#c97a7a",
+  "year": "1956",
+  "pages": [
+    {
+      "title": "O Amor é uma Arte",
+      "content": "A maioria das pessoas vê o problema do amor como o problema de ser amada, e não o problema de amar.\n\nSe o amor é uma arte, então requer conhecimento e esforço — como qualquer outra arte."
+    },
+    {
+      "title": "A Teoria do Amor",
+      "content": "O amor é uma resposta activa à separação humana. É a superação da separação, mantendo a integridade.\n\nO amor maduro diz: 'Preciso de ti porque te amo.' O amor imaturo diz: 'Amo-te porque preciso de ti.'"
+    },
+    {
+      "title": "Amor a Si Mesmo",
+      "content": "O mandamento bíblico 'Amar o próximo como a ti mesmo' implica que o respeito pela própria integridade não pode ser separado do respeito pelo outro.\n\nO amor por mim mesmo está inseparávelmente ligado ao amor por qualquer outro ser."
+    },
+    {
+      "title": "Amor e Dependência",
+      "content": "A dependência simbiótica é a forma mais comum de pseudo-amor. Dois seres tornam-se um, perdendo a integridade de cada um.\n\nO amor verdadeiro é a união que preserva a integridade. Só o ser que se basta a si mesmo pode oferecer algo real a outro."
+    },
+    {
+      "title": "Praticar o Amor",
+      "content": "A prática do amor requer disciplina, concentração, paciência e a superação do narcisismo.\n\nO amor não é primariamente uma relação com uma pessoa específica. É uma atitude, uma orientação do carácter que determina o relacionamento com o mundo como um todo."
+    }
+  ]
+}

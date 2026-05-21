@@ -1,0 +1,367 @@
+/* SubLime — Reader Styles */
+
+/* ─── Reader Container ─── */
+#reader-view {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: var(--reader-bg);
+  overflow: hidden;
+  flex-direction: column;
+}
+#reader-view.active { display: flex; }
+
+/* ─── Reader Header ─── */
+.reader-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--border);
+  background: var(--reader-bg);
+  position: relative;
+  z-index: 10;
+  flex-shrink: 0;
+}
+
+.reader-book-title {
+  font-family: var(--font-serif);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  flex: 1;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 0 12px;
+}
+
+.reader-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 8px;
+  border-radius: 8px;
+  transition: color 0.2s, background 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+}
+.reader-btn:hover { color: var(--accent); background: var(--surface-2); }
+
+/* ─── Reading Progress Bar ─── */
+.reader-progress-bar {
+  height: 2px;
+  background: var(--border);
+  flex-shrink: 0;
+  position: relative;
+}
+.reader-progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.5s ease;
+}
+
+/* ─── Page Content ─── */
+.reader-body {
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 48px 24px 100px;
+  scroll-behavior: smooth;
+}
+.reader-body::-webkit-scrollbar { width: 4px; }
+.reader-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+.reader-content {
+  max-width: 660px;
+  width: 100%;
+  animation: fadeIn 0.4s ease forwards;
+}
+
+.reader-page-title {
+  font-family: var(--font-serif);
+  font-size: 1.6rem;
+  color: var(--text-primary);
+  margin-bottom: 36px;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+}
+
+.reader-page-text {
+  font-family: var(--font-body);
+  font-size: var(--reader-font-size, 1.1rem);
+  line-height: 1.9;
+  color: var(--reader-text);
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.reader-page-text::selection { background: rgba(201,169,110,0.25); }
+
+/* ─── Highlight on select ─── */
+.highlight-bar {
+  position: fixed;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 6px 4px;
+  display: none;
+  gap: 4px;
+  z-index: 500;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
+}
+.highlight-bar.visible { display: flex; animation: scaleIn 0.15s ease forwards; }
+.highlight-bar button {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  padding: 6px 10px;
+  cursor: pointer;
+  border-radius: 7px;
+  font-size: 0.75rem;
+  font-family: var(--font-ui);
+  letter-spacing: 0.04em;
+  transition: color 0.2s, background 0.2s;
+  white-space: nowrap;
+}
+.highlight-bar button:hover { color: var(--accent); background: var(--surface-3); }
+
+/* ─── Reader Footer / Navigation ─── */
+.reader-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0; right: 0;
+  padding: 20px 24px 28px;
+  background: linear-gradient(transparent, var(--reader-bg) 30%);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.reader-nav-btn {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.reader-nav-btn:hover:not(:disabled) {
+  background: var(--surface-3);
+  color: var(--accent);
+  border-color: var(--accent);
+  transform: scale(1.05);
+}
+.reader-nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+.reader-page-counter {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  letter-spacing: 0.1em;
+  text-align: center;
+  flex: 1;
+}
+
+/* ─── Reader Settings Panel ─── */
+.reader-settings {
+  position: fixed;
+  top: 65px;
+  right: 16px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+  min-width: 220px;
+  z-index: 300;
+  display: none;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+}
+.reader-settings.open { display: block; animation: slideDown 0.2s ease forwards; }
+
+.settings-label {
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+  display: block;
+}
+
+.font-size-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+.font-size-controls button {
+  background: var(--surface-3);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-secondary);
+  width: 34px; height: 34px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.2s;
+  display: flex; align-items: center; justify-content: center;
+}
+.font-size-controls button:hover { color: var(--accent); border-color: var(--accent); }
+.font-size-value {
+  flex: 1;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.theme-toggle-row {
+  display: flex;
+  gap: 8px;
+}
+.theme-opt {
+  flex: 1;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-3);
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  font-family: var(--font-ui);
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.2s;
+}
+.theme-opt.active { border-color: var(--accent); color: var(--accent); background: rgba(201,169,110,0.08); }
+
+/* ─── Reflect Panel ─── */
+.reflect-panel {
+  position: fixed;
+  inset: 0;
+  z-index: 400;
+  background: rgba(0,0,0,0.7);
+  backdrop-filter: blur(8px);
+  display: none;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 16px;
+}
+.reflect-panel.open { display: flex; }
+
+.reflect-card {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 24px 24px 16px 16px;
+  padding: 28px 24px 24px;
+  width: 100%;
+  max-width: 620px;
+  animation: slideUp 0.35s cubic-bezier(.25,.8,.25,1) forwards;
+}
+
+.reflect-card h3 {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+.reflect-card p {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  font-family: var(--font-ui);
+}
+
+.reflect-textarea {
+  width: 100%;
+  min-height: 130px;
+  background: var(--surface-3);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  resize: vertical;
+  outline: none;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+.reflect-textarea:focus { border-color: var(--accent); }
+
+.reflect-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+}
+.btn-reflect-save {
+  flex: 1;
+  background: var(--accent);
+  color: #0d0d0f;
+  border: none;
+  border-radius: 12px;
+  padding: 12px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.2s;
+}
+.btn-reflect-save:hover { opacity: 0.88; transform: scale(0.99); }
+.btn-reflect-cancel {
+  background: var(--surface-3);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  border-radius: 12px;
+  padding: 12px 20px;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.btn-reflect-cancel:hover { color: var(--text-primary); }
+
+/* ─── Saved Quotes Strip ─── */
+.saved-quote-chip {
+  background: rgba(201,169,110,0.08);
+  border: 1px solid rgba(201,169,110,0.2);
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--accent);
+  line-height: 1.5;
+  position: relative;
+  word-break: break-word;
+}
+.saved-quote-chip .quote-del {
+  position: absolute;
+  top: 6px; right: 6px;
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.75rem;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.saved-quote-chip:hover .quote-del { opacity: 1; }

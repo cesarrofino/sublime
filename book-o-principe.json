@@ -1,0 +1,40 @@
+{
+  "id": "o-principe",
+  "title": "O Príncipe",
+  "author": "Nicolau Maquiavel",
+  "category": "Filosofia",
+  "summary": "Um guia cru e brilhante sobre poder, liderança e a natureza humana. Escrito em 1513, continua a ser o manual político mais controverso da história.",
+  "cover_color": "#1e1a0f",
+  "accent": "#d4a843",
+  "year": "1513",
+  "pages": [
+    {
+      "title": "Prefácio",
+      "content": "Maquiavel escreveu O Príncipe na esperança de recuperar o favor dos Médici depois de ter sido preso e torturado. Nunca o conseguiu em vida.\n\nMas deixou algo maior: um espelho. Um espelho que mostra o poder tal como é, não como gostaríamos que fosse.\n\nLeia sem julgamento. Leia como quem quer compreender o mundo real."
+    },
+    {
+      "title": "Capítulo I — Os Tipos de Principado",
+      "content": "Todos os estados, todos os domínios que têm tido ou têm poder sobre os homens, foram e são repúblicas ou principados.\n\nOs principados são hereditários — com o sangue do seu senhor já estabelecido por longo tempo — ou são novos.\n\nOs novos são totalmente novos, como foi Milão para Francesco Sforza, ou são membros acrescentados ao estado hereditário do príncipe que os adquire."
+    },
+    {
+      "title": "Capítulo VI — Principados Novos por Armas Próprias",
+      "content": "Ninguém deve surpreender-se se, ao falar de principados inteiramente novos em príncipe e governo, trouxer exemplos dos mais excelentes.\n\nOs profetas armados venceram e os desarmados arruinaram-se. Moisés, Rômulo, Ciro e Teseu, se examinados, parecem diferentes entre si em muitos aspectos. Mas concordam nisto: cada um obteve a oportunidade pelo próprio mérito.\n\nA oportunidade tornou-os grandes. O seu excelente valor reconheceu a oportunidade."
+    },
+    {
+      "title": "Capítulo XV — Virtudes e Vícios",
+      "content": "Muitos imaginaram repúblicas e principados que nunca existiram. Há uma diferença tão grande entre como se vive e como se deveria viver que quem abandona o que se faz pelo que se deveria fazer aprende a ruína em vez da preservação.\n\nUm homem que quer ser bom em tudo acaba necessariamente na ruína entre tantos que não são bons.\n\nPor isso é necessário a um príncipe que queira manter-se aprender a não ser bom — e usar esse conhecimento consoante a necessidade."
+    },
+    {
+      "title": "Capítulo XVII — Crueldade e Clemência",
+      "content": "Surgindo a questão de ser melhor ser amado do que temido, ou o contrário, responde-se que se desejaria ser ambos. Mas como é difícil conjugar ambos, é muito mais seguro ser temido do que amado.\n\nPois dos homens pode dizer-se em geral: são ingratos, volúveis, simuladores, fujões dos perigos, cobiçosos de ganho.\n\nO amor é um vínculo de obrigação que os homens, por serem maus, quebram em qualquer ocasião de conveniência própria. Mas o medo é mantido pelo receio de punição que nunca abandona."
+    },
+    {
+      "title": "Capítulo XVIII — Como os Príncipes Devem Guardar a Palavra",
+      "content": "Todos entendem quão louvável é num príncipe manter a fé e viver com integridade, não com astúcia. No entanto a experiência do nosso tempo mostra que os príncipes que fizeram grandes coisas são os que deram pouco valor à palavra dada.\n\nUm príncipe deve saber fazer bom uso tanto do animal como do homem. Deve escolher o leão e a raposa: o leão não se defende das armadilhas; a raposa não se defende dos lobos. É necessário ser raposa para conhecer as armadilhas e leão para aterrorizar os lobos."
+    },
+    {
+      "title": "Reflexão Final",
+      "content": "Maquiavel não nos diz para sermos cruéis. Diz-nos para sermos lúcidos.\n\nO poder existe. A natureza humana existe. Fingir que não — seja na política, nos negócios, nas relações — é uma forma de ingenuidade que tem um preço.\n\nO verdadeiro legado de O Príncipe não é cinismo. É a coragem de ver as coisas como são, para poder agir com sabedoria num mundo imperfeito."
+    }
+  ]
+}

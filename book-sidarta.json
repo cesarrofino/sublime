@@ -1,0 +1,32 @@
+{
+  "id": "sidarta",
+  "title": "Sidarta",
+  "author": "Hermann Hesse",
+  "category": "Filosofia",
+  "summary": "A jornada espiritual de um jovem brâmane em busca da iluminação. Sobre o autoconhecimento e a sabedoria que a razão não consegue ensinar.",
+  "cover_color": "#2a1a0a",
+  "accent": "#d4944a",
+  "year": "1922",
+  "pages": [
+    {
+      "title": "A Sede",
+      "content": "Sidarta tinha aprendido a pronunciar o Om, a palavra das palavras, fundido com o ilimitado.\n\nE todavia o seu coração não estava em paz.\n\nOs que procuram muitas vezes encontram apenas o que procuram — mas não o que precisavam."
+    },
+    {
+      "title": "O Rio",
+      "content": "Sidarta sentou-se junto ao rio e olhou para a água que fluía. Nunca tinha amado um lugar desta forma.\n\nO rio ria. Ria clara e jovialmente de Sidarta, o velho.\n\n'Queres aprender algo comigo?' perguntou o rio. 'O que queres aprender?'\n\n'O tempo', disse Sidarta baixinho. E o rio murmurou: 'Ouve. Ouve bem.'"
+    },
+    {
+      "title": "A Sabedoria Não Se Ensina",
+      "content": "'O saber pode ser comunicado mas a sabedoria não. Pode-se encontrá-la, pode-se vivê-la, mas não a podemos comunicar nem ensinar.'\n\nGovinda ficou em silêncio. A verdade que Sidarta dizia era antiga, mas ouvi-la assim, tão directa, era como ser tocado por uma chama."
+    },
+    {
+      "title": "O Om do Rio",
+      "content": "Quando Sidarta ouvia o rio, quando sentiu a unidade do rio, a onipresença — neste momento o rio falou-lhe de novo.\n\nTudo o que existia era feito de vozes. O sofrimento e o riso. O bem e o mal. Tudo junto — era Om. Uma única palavra: a perfeição."
+    },
+    {
+      "title": "O Fim da Procura",
+      "content": "'Sidarta', disse Govinda, 'como chegaste à paz?'\n\nE Sidarta respondeu: 'Através do rio. Através do tempo. E através de ter desistido de procurar.'\n\n'Quando paramos de fugir de nós mesmos, de procurar no exterior o que só existe no interior — encontramos. Mas o que encontramos não tem nome. Só tem silêncio.'"
+    }
+  ]
+}

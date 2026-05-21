@@ -1,0 +1,40 @@
+{
+  "id": "a-arte-da-guerra",
+  "title": "A Arte da Guerra",
+  "author": "Sun Tzu",
+  "category": "Sabedoria",
+  "summary": "O tratado militar mais antigo do mundo revela estratégias atemporais sobre liderança, disciplina e o conhecimento de si mesmo e do adversário.",
+  "cover_color": "#1c2b1a",
+  "accent": "#8fbc5a",
+  "year": "500 a.C.",
+  "pages": [
+    {
+      "title": "Prefácio",
+      "content": "Escrito há mais de dois mil anos, este pequeno livro nunca saiu de moda. Generais, líderes empresariais, desportistas e filósofos continuam a voltar a ele.\n\nA razão é simples: Sun Tzu não fala apenas de guerra. Fala de como pensar, como agir e como vencer — não apenas o adversário, mas a própria confusão da mente.\n\nLeia cada capítulo como se fosse uma meditação, não um manual."
+    },
+    {
+      "title": "Capítulo I — Os Planos",
+      "content": "A guerra é de vital importância para o Estado. É o domínio da vida e da morte, o caminho para a sobrevivência ou para a ruína.\n\nCinco factores constantes governam a arte da guerra: a Lei Moral, o Céu, a Terra, o Comandante e o Método e Disciplina.\n\nO general que vence faz muitos cálculos antes da batalha. O general que perde faz poucos. Muitos cálculos conduzem à vitória; poucos cálculos conduzem à derrota."
+    },
+    {
+      "title": "Capítulo II — A Condução da Guerra",
+      "content": "Na guerra, deixa que o teu grande objectivo seja a vitória, não campanhas longas.\n\nNão há exemplo de um país que tenha beneficiado de uma guerra prolongada.\n\nO general habilidoso não recruta duas vezes, não transporta mantimentos três vezes. Obtém equipamento do inimigo, suplementa-o com o que traz de casa.\n\nUm exército victorioso ganha primeiro e depois procura batalha."
+    },
+    {
+      "title": "Capítulo III — Estratégia Ofensiva",
+      "content": "Na arte prática da guerra, a melhor coisa de todas é conquistar o país inimigo intacto. Destruí-lo é inferior.\n\nAssim, a regra suprema da guerra é frustrar os planos do inimigo. Em segundo lugar vem impedir a junção das suas forças. Depois atacar o seu exército. A pior política é assediar cidades muradas.\n\nConhece o inimigo e conhece-te a ti mesmo: em cem batalhas nunca estarás em perigo."
+    },
+    {
+      "title": "Capítulo VI — Pontos Fracos e Fortes",
+      "content": "Quem chega primeiro ao campo de batalha e espera o inimigo estará fresco para o combate. Quem chega depois e tem de se apressar chegará exausto.\n\nImpõe a tua vontade ao inimigo, não deixes que ele te imponha a dele.\n\nSe o inimigo reforça a sua vanguarda, enfraquece a retaguarda. Se reforça a retaguarda, enfraquece a frente. Tira partido de onde ele se mostra fraco."
+    },
+    {
+      "title": "Capítulo XIII — O Uso de Espiões",
+      "content": "Levanta um exército de cem mil homens e marchá-los a uma grande distância implica um custo enorme para o povo. Sem conhecimento da situação do inimigo, não podes agir com inteligência.\n\nO conhecimento antecipado não pode ser obtido de espíritos, não pode ser deduzido por indução, nem calculado por deduções. Tem de ser obtido de homens que conhecem o estado do inimigo.\n\nUsar espiões é o elemento mais vital em guerra. Sobre ele repousa o movimento de todo o exército."
+    },
+    {
+      "title": "Reflexão Final",
+      "content": "Sun Tzu deixou-nos algo raro: sabedoria que funciona igualmente bem na sala de reuniões, no campo desportivo, na vida pessoal.\n\nO inimigo mais perigoso não está fora de ti. É a impaciência, o ego, a falta de plano, o medo de agir.\n\nConhece-te a ti mesmo. Conhece o teu terreno. Aguarda o momento certo. E quando agires — age com plena determinação."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pensar-devagar",
+  "title": "Pensar, Depressa e Devagar",
+  "author": "Daniel Kahneman",
+  "category": "Psicologia",
+  "summary": "O Nobel de Economia revela os dois sistemas que governam o pensamento humano. Um livro que muda para sempre a forma como te vês a pensar.",
+  "cover_color": "#101828",
+  "accent": "#7a9fc4",
+  "year": "2011",
+  "pages": [
+    {
+      "title": "Sistema 1 e Sistema 2",
+      "content": "O Sistema 1 é rápido, automático, emocional, instintivo. Funciona sem esforço.\n\nO Sistema 2 é lento, deliberado, racional, esforçado.\n\nO problema: o Sistema 1 governa muito mais do que pensamos. A maioria das nossas decisões nasce do Sistema 1 — e depois o Sistema 2 constrói uma justificação racional para o que já foi decidido.\n\nPensas que pensas. Mas frequentemente apenas racionalizas."
+    },
+    {
+      "title": "Os Atalhos da Mente",
+      "content": "O cérebro é preguiçoso por design. Evoluiu para poupar energia.\n\nO efeito de ancoragem: o primeiro número que ouvimos influencia a nossa estimativa, mesmo que seja irrelevante.\n\nO viés de confirmação: procuramos instintivamente informação que confirma o que já acreditamos.\n\nConhecer estes atalhos não os elimina. Mas permite-nos pausar antes de os seguirmos cegamente."
+    },
+    {
+      "title": "A Ilusão de Saber",
+      "content": "As pessoas têm confiança excessiva no que sabem.\n\nEspecialistas com décadas de experiência prevêem pior do que modelos estatísticos simples — mas estão muito mais confiantes nas suas previsões.\n\nA humildade intelectual é rara e preciosa. Reconhecer 'não sei' genuinamente é um dos actos mais honestos e inteligentes que um ser humano pode praticar."
+    },
+    {
+      "title": "Experiência e Memória",
+      "content": "O self da experiência vive no presente — sente prazer e dor momento a momento.\n\nO self da memória conta a história depois — e é ele que toma decisões sobre o futuro.\n\nO problema: o self da memória é um contador de histórias selectivo. Lembra sobretudo o pico emocional e o final — ignorando a duração.\n\nQuem estás a servir quando tomas decisões?"
+    },
+    {
+      "title": "Pensar Melhor",
+      "content": "O objectivo não foi paralisar-nos com a consciência dos nossos enviesamentos. Foi tornar-nos mais lúcidos.\n\nNão podes eliminar o Sistema 1. Mas podes aprender a reconhecer as situações em que ele mente.\n\nPensar bem não é pensar mais. É saber quando abrandar — e ter a disciplina de o fazer mesmo quando o Sistema 1 grita que já sabe a resposta."
+    }
+  ]
+}

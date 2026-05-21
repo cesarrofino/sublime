@@ -1,0 +1,32 @@
+{
+  "id": "inteligencia-emocional",
+  "title": "Inteligência Emocional",
+  "author": "Daniel Goleman",
+  "category": "Psicologia",
+  "summary": "Goleman demonstra que o QI não determina o sucesso na vida — a inteligência emocional sim. Um livro que transformou a forma como entendemos a mente humana.",
+  "cover_color": "#1a0a1a",
+  "accent": "#c47ab8",
+  "year": "1995",
+  "pages": [
+    {
+      "title": "O Que É Inteligência Emocional",
+      "content": "As pessoas com QI médio superam frequentemente aquelas com QI elevado. A variável que explica essa diferença é a inteligência emocional — a capacidade de reconhecer, compreender e gerir as próprias emoções e as dos outros.\n\nA inteligência emocional não é o oposto da razão. É o complemento essencial sem o qual a razão pura navega sem bússola."
+    },
+    {
+      "title": "O Cérebro Emocional",
+      "content": "A amígdala funciona como um alarme — detecta ameaças e desencadeia resposta imediata antes que o córtex racional processe o que aconteceu.\n\nGoleman chama a isto o 'sequestro da amígdala'. Reconhecer este mecanismo é o primeiro passo para o gerir.\n\nNomear a emoção não a elimina. Mas devolve-te o volante."
+    },
+    {
+      "title": "Autoconsciência",
+      "content": "A autoconsciência é o fundamento de toda a inteligência emocional.\n\nSignifica reconhecer as próprias emoções no momento em que ocorrem — não horas depois, em retrospectiva.\n\nDesenvolver autoconsciência é como ligar as luzes numa divisão escura. Não muda o que está lá. Mas permite-te finalmente ver — e escolher como responder."
+    },
+    {
+      "title": "Empatia",
+      "content": "A empatia é a capacidade de entrar no mundo emocional de outra pessoa sem perder o teu próprio chão.\n\nAs pessoas com elevada empatia sintonizam-se com os sinais subtis que os outros enviam — o tom de voz, a postura, o que não é dito.\n\nAntes de responder, pergunta-te: o que estará esta pessoa a sentir neste momento?"
+    },
+    {
+      "title": "Gerir Relações",
+      "content": "As competências sociais são o lado visível da inteligência emocional.\n\nAs pessoas com elevada inteligência emocional não evitam o conflito. Navegam-no com habilidade. Sabem como dizer verdades difíceis de formas que abrem em vez de fecharem.\n\nA inteligência emocional garante relações reais — onde os problemas são resolvidos em vez de acumulados."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "despertar-gigante",
+  "title": "Desperta o Gigante Interior",
+  "author": "Tony Robbins",
+  "category": "Motivação",
+  "summary": "Um manual sobre como assumir o controlo da mente, das emoções e do corpo. Para quem quer parar de reagir à vida e começar a criá-la.",
+  "cover_color": "#1f0a0a",
+  "accent": "#e07a3a",
+  "year": "1991",
+  "pages": [
+    {
+      "title": "Decisão — O Poder Supremo",
+      "content": "É nas nossas decisões, e não nas nossas condições, que o nosso destino é moldado.\n\nNão é o que acontece na nossa vida que nos define. É o que decidimos que as coisas significam — e o que decidimos fazer em relação a elas."
+    },
+    {
+      "title": "Crenças — A Arquitectura da Realidade",
+      "content": "Os seres humanos têm a extraordinária capacidade de pegar em qualquer experiência e criar um significado que os capacita ou os debilita.\n\nAs crenças não são factos. São histórias que contamos a nós mesmos — repetidas tantas vezes que parecem inevitáveis.\n\nPodes escolher outras histórias. Histórias mais verdadeiras."
+    },
+    {
+      "title": "O Estado Interior",
+      "content": "O teu estado emocional no momento presente determina quase tudo.\n\nA maioria das pessoas deixa que o estado seja controlado pelo ambiente. São barcos sem leme, ao sabor da maré.\n\nMuda a fisiologia e mudas o estado. Muda o foco e mudas o que sentes."
+    },
+    {
+      "title": "Valores e Identidade",
+      "content": "Quem achas que és determina o que farás.\n\nA identidade não é algo que descobrimos. É algo que construímos — através das escolhas que fazemos, das histórias que contamos.\n\nDecide hoje quem queres ser. Age diferente — e o sentimento segue."
+    },
+    {
+      "title": "Contribuição — O Sentido Final",
+      "content": "O segredo de viver é dar.\n\nA riqueza real mede-se na profundidade das relações, no impacto que deixamos.\n\nNo final da vida, ninguém deseja ter trabalhado mais. Desejam ter amado mais, arriscado mais, contribuído mais.\n\nNão esperes pelo final. Começa agora."
+    }
+  ]
+}

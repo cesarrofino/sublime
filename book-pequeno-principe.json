@@ -1,0 +1,32 @@
+{
+  "id": "pequeno-principe",
+  "title": "O Pequeno Príncipe",
+  "author": "Antoine de Saint-Exupéry",
+  "category": "Sabedoria",
+  "summary": "Uma fábula filosófica sobre o amor, a solidão e o que realmente importa. Vista por adultos, revela verdades que a razão nunca alcança.",
+  "cover_color": "#1a1a30",
+  "accent": "#f0c040",
+  "year": "1943",
+  "pages": [
+    {
+      "title": "O Essencial",
+      "content": "'Eis o meu segredo. É muito simples: só se vê bem com o coração. O essencial é invisível para os olhos.'\n\n'É o tempo que perdeste com a tua rosa que faz a tua rosa tão importante.'\n\n'Tu te tornas responsável para sempre por aquilo que cativas.'"
+    },
+    {
+      "title": "Cativar",
+      "content": "'O que significa cativar?' perguntou o pequeno príncipe.\n\n'Significa criar laços. Para mim, tu és apenas um rapaz semelhante a cem mil outros. Mas se tu me cativas, nós teremos necessidade um do outro. Serás para mim único no mundo. E eu serei para ti única no mundo.'\n\nO pequeno príncipe ficou a pensar."
+    },
+    {
+      "title": "As Estrelas",
+      "content": "'Quando olhares para o céu à noite, como eu estarei numa delas, como estarei a rir numa delas, então será para ti como se todas as estrelas estivessem a rir.'\n\n'As estrelas são belas, por causa de uma flor que não se vê.'"
+    },
+    {
+      "title": "O Deserto",
+      "content": "'O que torna o deserto belo', disse o pequeno príncipe, 'é que em algum lugar esconde um poço.'\n\n'Seja a casa, as estrelas, ou o deserto, o que os faz belos é invisível!'"
+    },
+    {
+      "title": "O Que os Adultos Esquecem",
+      "content": "Quando dizes aos adultos: 'Vi uma bela casa cor-de-rosa com gerânios nas janelas', eles não conseguem imaginar essa casa. Tens que lhes dizer: 'Vi uma casa que vale cem mil francos.' Então exclamam: 'Como é bela!'\n\nOs adultos são muito estranhos."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4-acordos",
+  "title": "Os Quatro Acordos",
+  "author": "Don Miguel Ruiz",
+  "category": "Sabedoria",
+  "summary": "Baseado na sabedoria Tolteca, propõe quatro princípios para libertar o espírito das crenças que criam sofrimento desnecessário.",
+  "cover_color": "#1a1a0a",
+  "accent": "#b8c46a",
+  "year": "1997",
+  "pages": [
+    {
+      "title": "O Sonho do Planeta",
+      "content": "Desde a infância somos ensinados a ser o que outros querem que sejamos. Este processo instala em nós acordos que aceitamos sem escolha.\n\nMas acordos podem ser quebrados. E novos acordos podem ser feitos — desta vez por escolha, com consciência."
+    },
+    {
+      "title": "1.º Acordo — Sê Impecável com a Tua Palavra",
+      "content": "A palavra é a força mais poderosa que tens como ser humano.\n\nObserva durante um dia o que dizes sobre os outros — e sobretudo o que dizes sobre ti mesmo. Esse monólogo interior é onde começa tudo."
+    },
+    {
+      "title": "2.º Acordo — Não Leves Nada a Peito",
+      "content": "Nada do que os outros fazem é por tua causa. É por causa deles mesmos.\n\nQuando alguém te insulta, está a falar do seu próprio sonho, das suas próprias feridas.\n\nQuando és imune às opiniões dos outros, a tua paz deixa de depender do comportamento de quem está à tua volta."
+    },
+    {
+      "title": "3.º Acordo — Não Faças Suposições",
+      "content": "Temos o hábito de fazer suposições sobre tudo — e depois tratamos essas suposições como verdades.\n\nA solução é simples mas requer coragem: pergunta. Comunica claramente.\n\nA maioria dos dramas relacionais nasce de suposições não verificadas."
+    },
+    {
+      "title": "4.º Acordo — Faz Sempre o Teu Melhor",
+      "content": "O teu melhor muda de momento para momento. Quando estás bem, é uma coisa. Quando estás exausto, é outra.\n\nMas em ambos os casos: faz esse melhor. Completamente.\n\nEste acordo liberta-te do perfeccionismo paralisante. Não se trata de ser perfeito. Trata-se de ser genuíno."
+    }
+  ]
+}

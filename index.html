@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt" data-theme="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0d0d0f" id="meta-theme">
+  <meta name="description" content="SubLime — Refúgio digital para leitura reflexiva, resumos e pensamentos profundos.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="SubLime">
+  <link rel="manifest" href="manifest.json">
+  <title>SubLime</title>
+  <link rel="stylesheet" href="animations.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="reader.css">
+  <!-- Theme flash prevention — runs before paint -->
+  <script>
+    (function(){
+      var t = localStorage.getItem('sublime_theme');
+      // Default: light. Só aplica dark se explicitamente guardado.
+      if (t === 'dark') { delete document.documentElement.dataset.theme; }
+      else { document.documentElement.dataset.theme = 'light'; }
+    })();
+  </script>
+
+  <style>
+    /* ── Splash Screen ── */
+    #splash-screen {
+      position: fixed; inset: 0; z-index: 9999;
+      background: #0d0d0f;
+      display: flex; flex-direction: column;
+      align-items: center; justify-content: center;
+      transition: opacity 0.6s ease;
+    }
+    #splash-screen.fade-out { opacity: 0; pointer-events: none; }
+    #splash-screen.hidden { display: none; }
+    .splash-logo {
+      font-size: 3rem; font-weight: 800; letter-spacing: 0.12em;
+      color: #c9a96e; font-family: Georgia, serif;
+      animation: splashPulse 2s ease-in-out infinite;
+    }
+    .splash-tagline {
+      margin-top: 10px; font-size: 0.85rem; letter-spacing: 0.25em;
+      color: #888; text-transform: uppercase;
+    }
+    .splash-bar-wrap {
+      margin-top: 48px; width: 160px; height: 2px;
+      background: #222; border-radius: 2px; overflow: hidden;
+    }
+    .splash-bar-fill {
+      height: 100%; width: 0%; background: #c9a96e;
+      border-radius: 2px;
+      transition: width 0.1s linear;
+    }
+    @keyframes splashPulse {
+      0%,100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+  </style>
+</head>
+<body>
+
+
+<!-- ══ SPLASH ══ -->
+<div id="splash-screen">
+  <div class="splash-logo">SubLime</div>
+  <div class="splash-tagline">Leitura · Reflexão · Silêncio</div>
+  <div class="splash-bar-wrap">
+    <div class="splash-bar-fill" id="splash-bar"></div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<!-- ══ ONBOARDING ══ -->
+<div id="onboarding" class="hidden">
+  <div class="onboarding-card">
+    <div class="onboarding-logo">SubLime</div>
+    <div class="onboarding-tagline">Leitura · Reflexão · Silêncio</div>
+
+    <div class="onboarding-step active" id="ob-step-1">
+      <div class="ob-title">Bem-vindo ao teu refúgio</div>
+      <div class="ob-subtitle">Antes de começar, apresenta-te.</div>
+      <label class="ob-label" for="ob-name">O teu nome</label>
+      <input class="ob-input" id="ob-name" type="text" placeholder="" maxlength="40" autocomplete="off">
+      <label class="ob-label" for="ob-year">Ano de nascimento</label>
+      <input class="ob-input" id="ob-year" type="number" placeholder="Ex: 1995" min="1920" max="2099" autocomplete="off">
+      <button class="ob-btn" id="ob-next-1">Continuar →</button>
+    </div>
+
+    <div class="onboarding-step" id="ob-step-2">
+      <div class="ob-title">Cria o teu PIN</div>
+      <div class="ob-subtitle">4 dígitos para proteger os teus pensamentos.</div>
+      <div class="pin-dots" id="ob-pin-dots">
+        <div class="pin-dot"></div><div class="pin-dot"></div>
+        <div class="pin-dot"></div><div class="pin-dot"></div>
+      </div>
+      <div class="pin-pad" id="ob-pin-pad">
+        <button class="pin-key" data-v="1">1</button><button class="pin-key" data-v="2">2</button><button class="pin-key" data-v="3">3</button>
+        <button class="pin-key" data-v="4">4</button><button class="pin-key" data-v="5">5</button><button class="pin-key" data-v="6">6</button>
+        <button class="pin-key" data-v="7">7</button><button class="pin-key" data-v="8">8</button><button class="pin-key" data-v="9">9</button>
+        <button class="pin-key empty" data-v=""></button><button class="pin-key" data-v="0">0</button><button class="pin-key del" data-v="del">⌫</button>
+      </div>
+    </div>
+
+    <div class="onboarding-step" id="ob-step-3">
+      <div class="ob-title">Confirma o PIN</div>
+      <div class="ob-subtitle">Repete os mesmos 4 dígitos.</div>
+      <div class="pin-dots" id="ob-pin-dots-confirm">
+        <div class="pin-dot"></div><div class="pin-dot"></div>
+        <div class="pin-dot"></div><div class="pin-dot"></div>
+      </div>
+      <div class="pin-pad" id="ob-pin-pad-confirm">
+        <button class="pin-key" data-v="1">1</button><button class="pin-key" data-v="2">2</button><button class="pin-key" data-v="3">3</button>
+        <button class="pin-key" data-v="4">4</button><button class="pin-key" data-v="5">5</button><button class="pin-key" data-v="6">6</button>
+        <button class="pin-key" data-v="7">7</button><button class="pin-key" data-v="8">8</button><button class="pin-key" data-v="9">9</button>
+        <button class="pin-key empty" data-v=""></button><button class="pin-key" data-v="0">0</button><button class="pin-key del" data-v="del">⌫</button>
+      </div>
+      <p class="ob-hint">O PIN é guardado localmente no teu dispositivo.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ══ LOGIN ══ -->
+<div id="pin-login" class="hidden">
+  <div class="login-top">
+    <div class="login-logo">SubLime</div>
+    <div class="login-time" id="login-time">Bom dia</div>
+    <div class="login-greeting">Olá, <span class="login-name" id="login-name">Leitor</span></div>
+    <div class="login-quote-box">
+      <div class="login-quote-text" id="login-quote-text"></div>
+      <div class="login-quote-author" id="login-quote-author"></div>
+      <div class="login-quote-dots" id="login-quote-dots"></div>
+    </div>
+  
+  </div>
+  <div class="login-bottom">
+    <div class="login-pin-label">Introduz o teu PIN</div>
+    <div class="pin-dots" id="login-pin-dots" style="margin-bottom:20px;">
+      <div class="pin-dot"></div><div class="pin-dot"></div>
+      <div class="pin-dot"></div><div class="pin-dot"></div>
+    </div>
+    <div class="pin-pad" id="login-pin-pad">
+      <button class="pin-key" data-v="1">1</button><button class="pin-key" data-v="2">2</button><button class="pin-key" data-v="3">3</button>
+      <button class="pin-key" data-v="4">4</button><button class="pin-key" data-v="5">5</button><button class="pin-key" data-v="6">6</button>
+      <button class="pin-key" data-v="7">7</button><button class="pin-key" data-v="8">8</button><button class="pin-key" data-v="9">9</button>
+      <button class="pin-key empty" data-v=""></button><button class="pin-key" data-v="0">0</button><button class="pin-key del" data-v="del">⌫</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══ QUICK NOTE PANEL ══ -->
+<div class="quick-note-panel" id="quick-note-panel">
+  <div class="quick-note-card">
+    <h3>Anotação rápida</h3>
+    <p>Guarda um pensamento antes de entrar. Não precisas do PIN.</p>
+    <textarea class="quick-note-textarea" id="quick-note-input" placeholder="O que está na tua mente agora?"></textarea>
+    <div class="quick-note-actions">
+      <button class="btn-secondary" id="quick-note-cancel">Cancelar</button>
+      <button class="btn-primary" id="quick-note-save">Guardar pensamento</button>
+    </div>
+    <div class="quick-note-hint">Guardado localmente · Visível nas Notas após o login</div>
+  </div>
+</div>
+
+<!-- ══ APP ══ -->
+<div id="app">
+  <div class="screen" id="home-screen"></div>
+  <div class="screen" id="library-screen"></div>
+  <div class="screen" id="notes-screen"></div>
+  <div class="screen" id="reflections-screen"></div>
+  <div class="screen" id="quotes-screen"></div>
+  <div class="screen" id="dicionario-screen"></div>
+
+  <!-- Reader -->
+  <div id="reader-view"></div>
+
+  <!-- Bottom Nav — 5 tabs -->
+  <nav class="bottom-nav">
+    <button class="nav-item" data-screen="home">
+      <div class="nav-icon">⌂</div>
+      <div class="nav-label">Início</div>
+    </button>
+    <button class="nav-item" data-screen="library">
+      <div class="nav-icon">◫</div>
+      <div class="nav-label">Biblioteca</div>
+    </button>
+    <button class="nav-item" data-screen="notes">
+      <div class="nav-icon">📝</div>
+      <div class="nav-label">Notas</div>
+    </button>
+    <button class="nav-item" data-screen="reflections">
+      <div class="nav-icon">✦</div>
+      <div class="nav-label">Reflexões</div>
+    </button>
+    <button class="nav-item" data-screen="dicionario">
+      <div class="nav-icon">Aa</div>
+      <div class="nav-label">Dicionário</div>
+    </button>
+  </nav>
+</div>
+
+<!-- Scripts (ordem importa) -->
+<script src="storage.js"></script>
+<script src="library.js"></script>
+<script src="reader.js"></script>
+<script src="notes.js"></script>
+<script src="dicionario.js"></script>
+<script src="app.js"></script>
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('./service-worker.js').catch(() => {});
+    });
+  }
+</script>
+</body>
+</html>

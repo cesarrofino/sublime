@@ -1,0 +1,32 @@
+{
+  "id": "poder-agora",
+  "title": "O Poder do Agora",
+  "author": "Eckhart Tolle",
+  "category": "Espiritualidade",
+  "summary": "Um guia transformador para viver plenamente no momento presente. Tolle convida-nos a libertar-nos do peso do passado e da ansiedade do futuro.",
+  "cover_color": "#1a2a1a",
+  "accent": "#8fbe8f",
+  "year": "1997",
+  "pages": [
+    {
+      "title": "O Maior Obstáculo",
+      "content": "A mente é um instrumento extraordinário se usada correctamente. Mas na maioria das pessoas, a mente usa-nos a nós.\n\nO pensamento compulsivo é um vício. Pergunta-te: serei capaz de não pensar durante um minuto sequer? Esta simples tentativa revela algo essencial sobre a tua relação com a mente."
+    },
+    {
+      "title": "Ser Versus Ter",
+      "content": "O Ser não pode ser provado. Pode apenas ser sentido — como a tua presença mais profunda, o teu eu mais verdadeiro.\n\nA maioria das pessoas confunde quem são com o que têm, o que fazem ou o que os outros pensam delas. Esta confusão é a raiz de todo o sofrimento.\n\nEsse silêncio interior és tu. O verdadeiro tu."
+    },
+    {
+      "title": "O Momento Presente",
+      "content": "O momento presente é tudo o que alguma vez terás. O passado é uma memória — um pensamento agora. O futuro é uma antecipação — também um pensamento agora.\n\nA vida é agora. Sempre foi agora. Sempre será agora.\n\nHá algum problema neste momento exacto — não amanhã, não ontem — mas agora? A maioria das vezes, a resposta honesta é: não."
+    },
+    {
+      "title": "A Dor que Escolhemos",
+      "content": "Toda a dor emocional que experiencias vive na tua mente como um campo de energia. Este corpo de dor alimenta-se dos teus pensamentos negativos.\n\nMas há uma saída simples: a observação. Quando observas a tua dor sem a julgar, sem fugir dela — ela perde o poder.\n\nObservar é libertar."
+    },
+    {
+      "title": "Rendição",
+      "content": "A rendição não é fraqueza. É a acção mais corajosa que um ser humano pode realizar.\n\nRendição significa aceitar o que é neste momento. A resistência é sofrimento.\n\nA acção que nasce da paz tem um poder que a acção nascida da luta nunca terá."
+    }
+  ]
+}

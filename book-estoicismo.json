@@ -1,0 +1,32 @@
+{
+  "id": "estoicismo",
+  "title": "A Arte de Viver",
+  "author": "Epicteto",
+  "category": "Filosofia",
+  "summary": "Ensinamentos práticos do filósofo escravo sobre liberdade interior, aceitação e o poder da escolha. Uma filosofia para tempos difíceis.",
+  "cover_color": "#1a2f2a",
+  "accent": "#7eb8a4",
+  "year": "125 d.C.",
+  "pages": [
+    {
+      "title": "O Fundamento",
+      "content": "Algumas coisas estão sob o nosso controlo e outras não.\n\nSob o nosso controlo estão: opinião, motivação, desejo, aversão — tudo o que é obra nossa.\n\nNão estão sob o nosso controlo: o corpo, a propriedade, a reputação — tudo o que não é obra nossa.\n\nAs coisas sob o nosso controlo são por natureza livres, sem impedimentos. Aquelas que não estão são servis, pertencentes a outros."
+    },
+    {
+      "title": "Sobre o Desejo",
+      "content": "Procura que os acontecimentos ocorram tal como acontecem, e encontrarás a tranquilidade.\n\nNunca digas de nada: perdi isso. Di antes: devolvi-o.\n\nO teu filho morreu? Foi devolvido. A tua esposa morreu? Foi devolvida. A tua propriedade foi tirada? Também foi devolvida.\n\nEnquanto é dado a ti, cuida dele como de algo que pertence a outro."
+    },
+    {
+      "title": "Sobre a Liberdade",
+      "content": "É impossível que um homem aprenda o que pensa que já sabe.\n\nA liberdade não se obtém pela satisfação dos desejos, mas pela destruição do desejo.\n\nNão procures que as coisas que acontecem sejam como queres, mas deseja que as coisas que acontecem sejam como são — e encontrarás tranquilidade.\n\nA riqueza não consiste em ter muitas posses, mas em ter poucas necessidades."
+    },
+    {
+      "title": "Sobre a Filosofia",
+      "content": "Primeiro diz a ti mesmo que tipo de homem queres ser. Depois faz o que tens de fazer.\n\nA filosofia não promete coisas externas ao homem. A vida de cada um é o material da arte de viver.\n\nNão procures que as coisas que acontecem aconteçam como queres, mas ama as coisas que acontecem tal como acontecem."
+    },
+    {
+      "title": "O Banquete da Vida",
+      "content": "Lembra-te de te comportares na vida como num banquete.\n\nSe um prato passa perto de ti, estende a mão e toma a tua parte com moderação. Se não chegou ainda até ti, não estendas o teu desejo para onde está, mas espera até que chegue.\n\nFaz assim com os filhos, com a esposa, com os cargos, com a riqueza — e um dia serás digno do banquete dos deuses."
+    }
+  ]
+}
